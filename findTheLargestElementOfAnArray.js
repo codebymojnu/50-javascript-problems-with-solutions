@@ -8,4 +8,4 @@ function theLargest(numbers){
     }
     console.log(largest);
 }
-theLargest([1, 2, 3, 6, 4, 2, 1])
+theLargest([1, 2, 3, 6, 4, 2, 3])
