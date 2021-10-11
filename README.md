@@ -23,3 +23,5 @@
 [code](https://github.com/farooq365/js-problems/blob/main/11.%20remove%20duplicate.js)
 ### 12. Word and Charecter Counter in a article
 [code](https://github.com/farooq365/js-problems/blob/main/12.wordCount.js)
+### 13. Reverse a string
+[code](https://github.com/farooq365/js-problems/blob/main/13.reverseString.js)
