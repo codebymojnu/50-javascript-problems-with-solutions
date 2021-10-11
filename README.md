@@ -19,3 +19,5 @@
 [code](https://github.com/farooq365/js-problems/blob/main/9%20find%20max%20number.js)
 ### 10. Sum of all array element
 [code](https://github.com/farooq365/js-problems/blob/main/10%20sum%20of%20all%20array%20numbers.js)
+### 11. Remove Duplicate Number/Name from an array
+[code](https://github.com/farooq365/js-problems/blob/main/11.%20remove%20duplicate.js)
