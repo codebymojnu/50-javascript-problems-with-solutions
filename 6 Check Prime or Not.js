@@ -14,4 +14,4 @@ function checkPrimeOrNot(n) {
        return n + " is a prime number";
     }
 }
-console.log(checkPrimeOrNot(11));
+console.log(checkPrimeOrNot(57));
