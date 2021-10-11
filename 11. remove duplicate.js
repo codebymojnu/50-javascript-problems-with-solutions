@@ -6,4 +6,3 @@ for (let i = 0; i < id.length; i++) {
         newId.push(id[i]);
     }
 }
-console.log(newId);
