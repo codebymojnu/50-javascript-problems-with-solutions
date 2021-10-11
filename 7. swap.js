@@ -8,12 +8,12 @@ a = b;
 b = temp;
 console.log("After Swap: ", "a =", a, "b =", b);
 
-//swap without temp
+//swap by js destructing
 
 let morshed = "Arfina";
 let mojnu = "Bithe";
 console.log("Before Swap: ", "morshed =", morshed, "mojnu =", mojnu);
-[morshed, mojnu] = [mojnu, morshed];
+[morshed, mojnu] = [mojnu, morshed]; //destructing
 console.log("After Swap: ", "morshed =", morshed, "mojnu =", mojnu);
 
 //swap without temp
