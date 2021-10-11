@@ -25,3 +25,5 @@
 [code](https://github.com/farooq365/js-problems/blob/main/12.wordCount.js)
 ### 13. Reverse a string
 [code](https://github.com/farooq365/js-problems/blob/main/13.reverseString.js)
+### 14. Reverse a Number
+[code](https://github.com/farooq365/js-problems/blob/main/14.reverseNumber.js)

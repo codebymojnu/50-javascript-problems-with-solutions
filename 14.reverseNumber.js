@@ -7,7 +7,7 @@ function reverseNumber(n) {
         const char = string[i];
         reverse = char + reverse;
         }
-        return reverse;
+        return reverse; //output is string
     }
     else{
         while(n != 0){
