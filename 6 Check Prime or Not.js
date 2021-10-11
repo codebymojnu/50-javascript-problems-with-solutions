@@ -6,12 +6,12 @@ function checkPrimeOrNot(n) {
         return n + " is a prime number";
     }
     else{
-        if(n%2==0){
-            return n + " is not a prime number"
-        }
-        else{
-            return n + " is a prime number";
-        }
+       for (let i = 2; i <= n/2; i++) {
+           if(n%i == 0){
+                return n + " is not a prime number";
+           }
+       }
+       return n + " is a prime number";
     }
 }
-console.log(checkPrimeOrNot(16));
+console.log(checkPrimeOrNot(11));
