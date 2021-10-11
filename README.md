@@ -21,3 +21,5 @@
 [code](https://github.com/farooq365/js-problems/blob/main/10%20sum%20of%20all%20array%20numbers.js)
 ### 11. Remove Duplicate Number/Name from an array
 [code](https://github.com/farooq365/js-problems/blob/main/11.%20remove%20duplicate.js)
+### 12. Word and Charecter Counter in a article
+[code](https://github.com/farooq365/js-problems/blob/main/12.wordCount.js)
