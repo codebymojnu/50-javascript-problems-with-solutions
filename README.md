@@ -29,3 +29,7 @@
 [code](https://github.com/farooq365/js-problems/blob/main/14.reverseNumber.js)
 ### 15. Animal Count in the jungle
 [code}(https://github.com/farooq365/js-problems/blob/main/15.animalCount.js)
+### 16. Convert Kilometer To Meter
+### 17. Budget Calculator
+### 18. Calculate Hotel Cost
+### 19. Print the largest string of an array (megaFriend)
