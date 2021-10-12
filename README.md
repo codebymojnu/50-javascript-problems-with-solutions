@@ -27,3 +27,5 @@
 [code](https://github.com/farooq365/js-problems/blob/main/13.reverseString.js)
 ### 14. Reverse a Number
 [code](https://github.com/farooq365/js-problems/blob/main/14.reverseNumber.js)
+### 15. Animal Count in the jungle
+[code}(https://github.com/farooq365/js-problems/blob/main/15.animalCount.js)
