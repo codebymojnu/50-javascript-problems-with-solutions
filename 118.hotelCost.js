@@ -17,4 +17,6 @@ function hotelCost(days){
 		return "You type negative number or string. Please check and try again"
 	}
 }
-console.log(hotelCost(23));
+
+const cost = hotelCost(21);
+console.log(cost);
