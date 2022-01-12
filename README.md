@@ -28,9 +28,9 @@
 ### 14. Reverse a Number
 [code](https://github.com/farooq365/js-problems/blob/main/14.reverseNumber.js)
 ### 15. Animal Count in the jungle
-[code}(https://github.com/farooq365/js-problems/blob/main/15.animalCount.js)
+[code](https://github.com/farooq365/js-problems/blob/main/15.animalCount.js)
 ### 16. Convert Kilometer To Meter
-[code](https://github.com/jsmojnu/50-js-problems/blob/main/116.convertKilometerToMeter.js)
+[code](https://github.com/jsmojnu/50-js-problems-with-solutions/blob/main/116.convertKilometerToMeter.js)
 ### 17. Budget Calculator
 ### 18. Calculate Hotel Cost
 ### 19. Print the largest string of an array (megaFriend)
