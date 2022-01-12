@@ -11,4 +11,5 @@ function megaFriend(friendsName){
 	return largestName;
 }
 
-console.log(megaFriend(["Mojnu", "Morshed", "Rashedul", "Umar Farooq"]));
+const largeName = megaFriend(["Mojnu", "Morshed", "Rashedul", "Umar Farooq"]);
+console.log(largeName);
