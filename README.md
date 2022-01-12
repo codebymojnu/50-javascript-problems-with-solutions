@@ -1,4 +1,4 @@
-# js-problems
+# 50-js-problems-with-solutions
 ### 1. Find The Largest Number of the Array
 [code](https://github.com/farooq365/js-problems/blob/main/1.findTheLargestElementOfAnArray.js)
 ### 2. Convert Inch to Feet
@@ -30,6 +30,7 @@
 ### 15. Animal Count in the jungle
 [code}(https://github.com/farooq365/js-problems/blob/main/15.animalCount.js)
 ### 16. Convert Kilometer To Meter
+[code](https://github.com/jsmojnu/50-js-problems/blob/main/116.convertKilometerToMeter.js)
 ### 17. Budget Calculator
 ### 18. Calculate Hotel Cost
 ### 19. Print the largest string of an array (megaFriend)
